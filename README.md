@@ -1,4 +1,4 @@
-# 🚀 Rushant Ashtputre | 
+# 🚀 Rushant Ashtputre 
 
 Shit Shipping is real. 
 Culture x Tech = Magic.
