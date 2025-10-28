@@ -1,9 +1,4 @@
-# 🚀 Rushant Ashtputre 
-
-Shit Shipping is real. 
-Culture x Tech = Magic.
-Nomad on endless side quests,
-currently exploring Consumer AI
+# 🚀 Rushant Ashtputre | AI Engineer & Full-Stack Developer
 
 <div align="center">
 
@@ -171,8 +166,19 @@ and advanced video generation. Building the next generation of AI-powered applic
 ### **Contribution Graph**
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Rushant-123&theme=tokyo-night&hide_border=true)
 
-### **Achievement Showcase**
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Rushant-123&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+### **GitHub Achievements Earned**
+![Space Invader](https://github.githubassets.com/images/modules/profile/achievements/space-invader-default.png) **Space Invader** - 22+ Public Repositories
+![Contributor](https://github.githubassets.com/images/modules/profile/achievements/contributor-default.png) **Contributor** - Active Contributions
+![Pair Extraordinaire](https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png) **Pair Extraordinaire** - Consistent Commits
+![Trendsetter](https://github.githubassets.com/images/modules/profile/achievements/trendsetter-default.png) **Trendsetter** - Trending Technologies
+![Rainbow](https://github.githubassets.com/images/modules/profile/achievements/rainbow-default.png) **Rainbow** - Multiple Languages
+
+### **Next Achievements to Unlock**
+- 🌟 **Starstruck** (Get repository stars)
+- 👥 **Social** (Gain followers)
+- ⚡ **Quick Draw** (Fast PR merges)
+- 🎲 **YOLO** (Merge without review)
+- 🧠 **Galactic Brain** (Advanced tech stack)
 
 </div>
 
