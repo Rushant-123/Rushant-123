@@ -17,6 +17,19 @@ Currently: Back to builder mode.
 
 ---
 
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Dunlin-AI**](https://github.com/Rushant-123/Dunlin-AI) | Enterprise bookkeeping automation with AI categorization | Python, Azure AI, FAISS |
+| [**Social Automation Suite**](https://github.com/Rushant-123/social-media-automation-suite) | 7 content engines powering 30+ faceless channels | Python, Redis, FFmpeg |
+| [**Forge-AI**](https://github.com/Rushant-123/Forge-AI) | Build 2D games by describing them in plain English | Gemini, Kaplay.js, TypeScript |
+| [**Voice-Translation**](https://github.com/Rushant-123/Voice-Translation) | Real-time doctor-patient translator for 8 Indian languages | Sarvam AI, WebSockets |
+| [**Blue-Bird**](https://github.com/Rushant-123/Blue-Bird) | Multi-agent orchestration with MCP protocol | TypeScript, Agent SDK |
+| [**Dunlin-Backend**](https://github.com/Rushant-123/Dunlin-Backend-Enterprise) | Enterprise NestJS backend, multi-tenant architecture | NestJS, Prisma, Bull |
+
+---
+
 ## ⚔️ Quest Log
 
 <details>
